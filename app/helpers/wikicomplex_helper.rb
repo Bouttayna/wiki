@@ -1,0 +1,2 @@
+module WikicomplexHelper
+end
